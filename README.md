@@ -1,6 +1,6 @@
 <div align=center>
  
-   <h6> I'm learning these tech stacks....🐢🐢 </h6>
+   <h6> I'm learning the technology stacks below....🐢🐢 </h6>
   
   <h3 align="center">✨ Tech Stack ✨</h3>
 <p align="center">
