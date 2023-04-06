@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
-  <a href="https://www.instagram.com/ywoo212/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
+  <a href="https://www.instagram.com/y_woo212/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
 </p>
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
